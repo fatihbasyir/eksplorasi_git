@@ -1,1 +1,3 @@
-print('jangan lupa taraweh')
+sholat = 'taraweh'
+
+print('jangan lupa shalat', sholat)
